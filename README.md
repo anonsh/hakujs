@@ -1,0 +1,2 @@
+# hakujs
+Haku.js
